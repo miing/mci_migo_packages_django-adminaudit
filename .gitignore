@@ -1,0 +1,9 @@
+database.sqlite3
+build/
+django_adminaudit.egg-info/
+doc/_build/*
+.coverage
+coverage
+MANIFEST
+.tox
+attachements
